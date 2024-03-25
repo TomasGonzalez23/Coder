@@ -1,0 +1,63 @@
+[
+    {
+      "id": "74e7d25c78791fbaa9ae850c",
+      "password": "House",
+      "photo": "avatar1.jpg",
+      "email": "Coderhouse@hotmail.com",
+      "role": "admin"
+    },
+    {
+      "id": "230d56d5d0820fa5759836c8",
+      "password": "housecoder",
+      "photo": "coderjpg",
+      "email": "House@hotmail.com",
+      "role": "user"
+    },
+    {
+      "id": "a987dadd19ae95bc02842680",
+      "password": "Coder10",
+      "photo": "Mouse.jpg",
+      "email": "Citra@hotmail.com",
+      "role": "user"
+    },
+    {
+      "id": "c1e5f838fccd90d935a1d434",
+      "password": "houser",
+      "photo": "avatar2.jpg",
+      "email": "Coder@hotmail.com",
+      "role": "admin"
+    },
+    {
+      "id": "4d3e8810acefc1eaf00363ee",
+      "password": "House",
+      "photo": "avatar1.jpg",
+      "email": "Coderhouse@hotmail.com",
+      "role": "admin"
+    },
+    {
+      "id": "64953f12fe67727d16bd3c34",
+      "password": "housecoder",
+      "photo": "coderjpg",
+      "email": "House@hotmail.com",
+      "role": "user"
+    },
+    {
+      "id": "0297b9eaadbf9c68ed00be46",
+      "password": "Coder10",
+      "photo": "Mouse.jpg",
+      "email": "Citra@hotmail.com",
+      "role": "user"
+    },
+    {
+      "id": "d017f7b1d63ef35ef7f17dc5",
+      "password": "houser",
+      "photo": "avatar2.jpg",
+      "email": "Coder@hotmail.com",
+      "role": "admin"
+    },
+    {
+      "id": "55ad76910dc36b135eba9ae6",
+      "text": "my first note",
+      "date": "2024-03-17T20:40:56.914Z"
+    }
+  ]
