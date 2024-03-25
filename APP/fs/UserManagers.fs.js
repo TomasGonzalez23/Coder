@@ -57,10 +57,15 @@ class UserManager {
     }
   }
 
-  async readOne(id) {
+async readOne(id) {
+  try {
     const users = await this.read();
     return users.find((each) => each.id === id);
+  } catch (error) {
+    console.error('Error read Users:', error);
+    throw error;
   }
+}
 
   async destroy(id) {
     try {
